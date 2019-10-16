@@ -1,7 +1,7 @@
 ---
-title: "DRTED\: Deep learning Recommendation of Treatment from Electronic Data"
+title: "DRTED Deep learning Recommendation of Treatment from Electronic Data"
 collection: publications
-permalink: '/publication/DRTED\: Deep learning Recommendation of Treatment from Electronic Data'
+permalink: '/publication/DRTED Deep learning Recommendation of Treatment from Electronic Data'
 excerpt: 'Overview of a system for leveraging EMR data for early warning detection and treatment recommendation'
 date: 2016-11-01
 venue: 'AMIA 2016'
