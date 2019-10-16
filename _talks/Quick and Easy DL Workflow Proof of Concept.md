@@ -8,4 +8,4 @@ date: 2018-03-26
 location: "San Jose, CA"
 ---
 
-Demonstrated a [simple workflow](https://github.com/alecgunny/gtc-fashion-mnist) for building embedded applications using deep learning models trained in the cloud
+Demonstrating a [simple workflow](https://github.com/alecgunny/gtc-fashion-mnist) for building embedded applications using deep learning models trained in the cloud
