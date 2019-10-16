@@ -7,4 +7,4 @@ venue: "GPU Technology Conference"
 date: 2019-03-22
 location: "San Jose, California"
 ---
-An [end-to-end workflow](https://github.com/alecgunny/gtc-tf-src-demo) for leveraging Tensorflow APIs to preprocess audio classification data, train a deep learning model on it, then serve it for inference at reduced precision
+Discussing a simple [end-to-end workflow](https://github.com/alecgunny/gtc-tf-src-demo) for leveraging Tensorflow APIs to preprocess audio classification data, train a deep learning model on it, then serve it for inference at reduced precision
