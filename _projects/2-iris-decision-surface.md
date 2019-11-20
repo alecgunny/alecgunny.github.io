@@ -2,7 +2,7 @@
 title: "Visualizing Iris Dataset Decision Surfaces"
 collection: projects
 type: "Technical"
-permalink: /projects/hogwild
+permalink: /projects/decision-surface
 link: https:github.com/alecgunny/ngc-iris-demo
 ---
 
