@@ -1,5 +1,5 @@
 ---
-title: "Training RNNs to write Red Hot Chili Peppers"
+title: "Training RNNs to write Red Hot Chili Peppers Lyrics"
 collection: projects
 type: "Fun"
 permalink: /projects/kiedis
