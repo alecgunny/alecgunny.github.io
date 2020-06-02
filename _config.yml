@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alec Gunny / About"
 title_separator          : "-"
 name                     : &name "Alec MacLean Gunny"
-description              : &description "Solutions Architect at NVIDIA"
+description              : &description "Machine Learning Scientist at NVIDIA"
 url                      : https://alecgunny.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alecgunny/alecgunny.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Alec MacLean Gunny"
   avatar           : "alecgunny.jpg"
-  bio              : "Deep learning scientist, aspiring physicist, music nerd"
+  bio              : ""
   location         : "San Francisco"
   employer         : NVIDIA
   pubmed           : 
