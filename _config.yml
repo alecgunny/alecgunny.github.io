@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alec Gunny"
+title                    : "Alec Gunny's GitHub.io"
 title_separator          : "-"
 name                     : &name "Alec MacLean Gunny"
 description              : "" # &description "Machine Learning Scientist at NVIDIA"
