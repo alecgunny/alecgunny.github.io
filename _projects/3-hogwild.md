@@ -1,7 +1,7 @@
 ---
 title: "Hogwild! on GPU"
 collection: projects
-type: "Technical"
+type: "Deep Learning"
 permalink: /projects/hogwild
 link: https://github.com/alecgunny/hogwild
 ---
