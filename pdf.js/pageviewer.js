@@ -22,11 +22,11 @@ if (!pdfjsLib.getDocument || !pdfjsViewer.PDFPageView) {
 // The workerSrc property shall be specified.
 //
 pdfjsLib.GlobalWorkerOptions.workerSrc =
-  "https://www.jsdelivr.com/package/npm/pdfjs-dist/build/pdf.worker.js";
+  "https://cdn.jsdelivr.net/npm/pdfjs-dist@2.5.207/build/pdf.worker.js";
 
 // Some PDFs need external cmaps.
 //
-var CMAP_URL = "https://www.jsdelivr.com/package/npm/pdfjs-dist/cmaps/";
+var CMAP_URL = "https://cdn.jsdelivr.net/npm/pdfjs-dist@2.5.207/cmaps/";
 var CMAP_PACKED = true;
 
 var DEFAULT_URL = "/files/Alec_Gunny_CV.pdf";
