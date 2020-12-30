@@ -2,11 +2,12 @@
 layout: archive
 title: "CV"
 permalink: /CV/
-author_profile: false
+author_profile: true
 ---
 
+<canvas id="the-canvas" style="direction: ltr;"></canvas>
+
 <script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
-<canvas id="the-canvas" style="border: 1px solid black; direction: ltr;"></canvas>
 <script id="script">
   // If absolute URL from the remote server is provided, configure the CORS
   // header on that server.
@@ -27,7 +28,7 @@ author_profile: false
     var pageNumber = 1;
     pdf.getPage(pageNumber).then(function(page) {
       console.log('Page loaded');
-      
+
       var scale = 1.5;
       var viewport = page.getViewport({scale: scale});
 
