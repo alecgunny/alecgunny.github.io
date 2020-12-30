@@ -26,7 +26,10 @@ author_profile: true
 <script id="script">
   "use strict";
 
-  var pdfjsLib = window['pdfjs-dist/build/pdf'];
+  if (!pdfjsLib.getDocument || !pdfjsViewer.PDFViewer) {
+    alert("Please build the pdfjs-dist library using\n  `gulp dist-install`");
+  }
+
   pdfjsLib.GlobalWorkerOptions.workerSrc =
     "/pdf.js/build/pdf.worker.js";
 
