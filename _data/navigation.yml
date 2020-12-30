@@ -13,4 +13,4 @@ main:
     url: /projects/
 
   - title: "CV"
-    url: /files/Alec_Gunny_CV.pdf
+    url: /pdf.js/web/viewer.html?file=%2F_files/Alec_Gunny_CV.pdf
